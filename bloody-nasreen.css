@@ -1,0 +1,14 @@
+body {
+  background-image: url("http://navgurukul.org/bloodynasreen/explosion.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  height: 98vh;
+}
+
+img {
+  height: 350px;
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+}
